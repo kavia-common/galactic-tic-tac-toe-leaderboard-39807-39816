@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/galactic-tic-tac-toe-leaderboard-39807-39816/tic_tac_toe_frontend
+flutter analyze
+
